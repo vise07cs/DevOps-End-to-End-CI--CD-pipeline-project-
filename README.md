@@ -1,5 +1,8 @@
 # DevOps-End-to-End-CI--CD-pipeline-project-
 
+<img width="2088" height="925" alt="diagram-export-12-3-2025-11_35_38-PM" src="https://github.com/user-attachments/assets/b9c37014-a2c8-4f79-bfc9-359ea5f1cc71" />
+
+
 This Project is setup using the below tools 
 
 - Maven
